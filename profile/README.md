@@ -1,56 +1,52 @@
-<div align="center" display="flex">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7c95ec7b-5a4f-4aef-93df-78fad9ba2505/ddh4slr-82c38d93-e1a3-4414-9128-d8613670dc97.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjOTVlYzdiLTVhNGYtNGFlZi05M2RmLTc4ZmFkOWJhMjUwNVwvZGRoNHNsci04MmMzOGQ5My1lMWEzLTQ0MTQtOTEyOC1kODYxMzY3MGRjOTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ElJVJDFOgnKjHAN3UP_yjOqxk1s3lWSyPtIo7tseO30" width="100px">
-  <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/83c878f4-e702-483c-86e1-cb017385c912" width="300px">
-</div>
+## Hey, this is us 👋
 
-</br>
+![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.]([https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg](https://media.licdn.com/dms/image/D4D22AQFD9PuoxDDXRQ/feedshare-shrink_1280/0/1694697941541?e=1698278400&v=beta&t=zyOqblknUfqer-1FlHXAHN6e692f-RcYSMp50ydTT2Y))
 
-<p>
-  Me chamo <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/88277726-4ffe-44f3-a420-68b87398290c" width="160px">, tenho 22 anos, sou apaixonado por programação❤, café e jogos eletrônicos. Atualmente faço ensino superior em Engenharia De Software (4º Semestre). Iniciei engenharia de software assim que finalizei um curso pelo IFPA (Instituto Federal Do Pará),  foi um curso em "Programação web", onde aprendi um pouco de Front-end e Back-end. Após este curso, busquei novas formas de aprendizagem, além de aprimorar minhas habilidades em Front-end, estudando linguagens e frameworks.
-</p>
+Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **October 19th, 2007**. That's when we made our first commit. Since then we pushed **over 2.5 million commits**, opened **over 1 million issues**, submitted roughly **650k pull requests** across **4357 repositories** from over **50 countries** 🤯. But that's just us. We are proud  to be part of the work of millions of developers, companies and robots across the solar system 🪐. Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
 
-<br>
-<div align="center">
-  <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/1dc30d6c-b217-48c9-8250-f6b310538c73" width="250px">
-  <div>
-  <br>
-   <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/5d00663e-8705-4448-8973-3480368882f3" width="100px">
-   <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/b976200a-8507-490a-8ff3-42bbc3ae7cea" width="100px">
-   <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/a3837522-267f-4783-8a95-ee19acdd80c0" width="100px">
-   <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/67d56aea-cab0-48d1-ae81-0d31d7c01cce" width="117px">
-   <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/2c543de7-df01-4161-a645-c9620a364df0" width="108px">
-   <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/fe0885e2-ee11-4a1f-b6e8-351e9e0e02a6" width="100px">
-  </div>
-</div>
+### 🍿 An interconnected community
 
-</br>
+The open source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
 
-<div align="center">
-  <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/f3471632-40f4-439a-b9c2-b1e2fcbe3f2c" width="150px">
-<div>
-  
-  <br>
-   <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/79ce17f0-863a-4bd1-9ac2-89b7f8f71c5b" width="108px">
-   <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/89bf9cb5-9fad-4844-af70-0ccb217623c1" width="98px">
-  <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/4af53e15-4197-4cd5-8fec-180b73ced1d5" width="100px">
-   <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/0fa60f12-e100-44ca-8910-9d4cdd8733f7" width="100px">
-   <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/032e7660-4be9-4d8d-b3b4-6e788e7aa024" width="100px">
-  <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/e9c7494f-fb07-43d0-99ec-85462d65454e" width="85px">
-  </div>
-</div>
+- [GitHub Sponsors](https://github.com/sponsors) helped support more than **5k** individuals and projects around the world 🌍
+- Open source projects on GitHub received a stunning **218 million** contributions 🚀 in the last year alone
+- **Every minute** a developer creates a new release 🏄 for a public project on GitHub
 
-</br>
+Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leocastroz&bg_color=0d1117&color=b34d4d&line=ff9900&point=ffe1b8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🦦 Contributing to the ecosystem
 
+We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
 
-</br>
+- [GitHub CLI](https://github.com/cli/cli) - A command line tool for GitHub
+- [Git Large File Storage](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
+- [Primer](https://github.com/primer/css) - The GitHub design system
 
-<div align="center">
-  <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/d60eabd9-2390-4ba7-96bb-51f302882a58" width="130px">
-  <br>
-  <img src="https://github.com/leocastroz/magic-QRcode-vue3/assets/72839343/0fc06362-da6d-46c1-85f0-7ee7512161af" width="20px">
-  <div>
-   <a href="https://www.leocastro.site">www.leocastro.site</a>
-  </div>
-</div>
+### 👓 Appendix
+
+See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ and [let us know](https://github.com/github/feedback) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers) 🙌.
+
+<details> 
+	<summary>"Tell me more, I can't get enough!"</summary>
+	<br>
+	<ul>
+	<li>GitHub is built using mighty 🔨 open source technologies like <a href="https://github.com/rails">Ruby on Rails</a>, <a href="https://github.com/golang">Go</a>, <a href="https://github.com/primer">Primer</a>, <a href="https://github.com/reactjs">React</a> and <a href="https://github.com/apache/kafka">Kafka</a> among others.</li>
+		<li>The three open source projects GitHub members have most contributed 👩‍💻 to are:
+			<ul>
+				<li><a href="https://github.com/microsoft/vscode">Visual Studio Code</a></li>
+				<li><a href="https://github.com/rails/rails">Ruby on Rails</a></li>
+				<li><a href="https://github.com/Homebrew">Homebrew</a></li>
+			</ul>
+		</li>
+		<li>By the way, our <a href="https://github.com/github/docs">documentation</a> 🤓 is also open sourced</li>
+	</ul>
+</details>
+
+---
+
+<sub>🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).</sub>
+
+<!--
+Made with 🖤
+🙇‍♂️🎤⬇️
+-->
