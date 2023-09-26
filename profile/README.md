@@ -48,7 +48,7 @@ Se você é um estudante de Engenharia de Software da Universidade do Estado do 
 
 Aqui estão alguns detalhes adicionais sobre nossa organização:
 
-- Nosso site: [Seu Site da Organização](https://www.seu-site-da-organizacao.com) (EM BREVE)
-- Entre em contato conosco: [Seu Endereço de E-mail](mailto:seu-email@example.com) (EM BREVE)
+- Nosso site: [Site da Organização](https://www.seu-site-da-organizacao.com) (EM BREVE)
+- Entre em contato conosco: [Endereço de E-mail](mailto:seu-email@example.com) (EM BREVE)
 
 Estamos ansiosos para colaborar com você e construir software incrível juntos! 🚀
