@@ -21,7 +21,7 @@ Somos uma comunidade de estudantes de Engenharia de Software apaixonados por tec
 
 Explore nossos projetos e contribuições para o mundo do desenvolvimento de software:
 
-- [Projeto 1](link-do-projeto-1): Descrição do projeto 1.
+- [Blog](link-do-projeto-1): Blog de Engenharia de Software, onde os alunos podem apresentar artigos sobre tecnologia (EM BREVE).
 - [Projeto 2](link-do-projeto-2): Descrição do projeto 2.
 - [Projeto 3](link-do-projeto-3): Descrição do projeto 3.
 
@@ -31,25 +31,24 @@ Sinta-se à vontade para navegar em nossos repositórios para ver nosso trabalho
 
 Mantenha-se atualizado com nossas atividades e conecte-se conosco nas redes sociais:
 
-- [Twitter](https://twitter.com/seu-nome-no-twitter)
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil-no-linkedin)
-- [Instagram](https://www.instagram.com/seu-nome-no-instagram)
+- [Instagram Turma 2021](https://www.instagram.com/eng.software_pbs/)
+- [Instagram Turma 2023](https://www.instagram.com/eng.software2023/)
 
 Siga-nos para as últimas atualizações, anúncios de projetos e conteúdo relacionado à tecnologia.
 
 ## 🤝 Contribuições
 
-Recebemos contribuições de todos, seja você um aluno, desenvolvedor ou entusiasta de tecnologia. Se você gostaria de contribuir para nossos projetos ou colaborar conosco, confira nossas [diretrizes de contribuição](link-para-diretrizes-de-contribuicao).
+Recebemos contribuições de todos, seja você um aluno, desenvolvedor ou entusiasta de tecnologia.
 
 ## 📢 Junte-se a Nós
 
 Se você é um estudante de Engenharia de Software da Universidade do Estado do Pará e deseja fazer parte de nossa comunidade, sinta-se à vontade para entrar em contato e ingressar em nossa organização. Estamos sempre empolgados em receber novos membros!
 
-## 👓 Apêndice
+## 👓 Contatos
 
 Aqui estão alguns detalhes adicionais sobre nossa organização:
 
-- Nosso site: [Seu Site da Organização](https://www.seu-site-da-organizacao.com)
-- Entre em contato conosco: [Seu Endereço de E-mail](mailto:seu-email@example.com)
+- Nosso site: [Seu Site da Organização](https://www.seu-site-da-organizacao.com) (EM BREVE)
+- Entre em contato conosco: [Seu Endereço de E-mail](mailto:seu-email@example.com) (EM BREVE)
 
 Estamos ansiosos para colaborar com você e construir software incrível juntos! 🚀
