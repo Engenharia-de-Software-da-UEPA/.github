@@ -22,7 +22,7 @@ Somos uma comunidade de estudantes de Engenharia de Software apaixonados por tec
 Explore nossos projetos e contribuições para o mundo do desenvolvimento de software:
 
 - [Blog](link-do-projeto-1): Blog de Engenharia de Software, onde os alunos podem apresentar artigos sobre tecnologia (EM BREVE).
-- [Projeto 2](link-do-projeto-2): Descrição do projeto 2.
+- [Jogo da Velha com IA](https://github.com/Engenharia-de-Software-da-UEPA/ia-jogo-da-velha): Jogo da Velha com Inteligência Artificial desenvolvida com Python e Javascript. #AI #IA #Python #JS #Django
 - [Projeto 3](link-do-projeto-3): Descrição do projeto 3.
 
 Sinta-se à vontade para navegar em nossos repositórios para ver nosso trabalho mais recente!
